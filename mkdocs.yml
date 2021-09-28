@@ -1,0 +1,19 @@
+site_name: Teamstudio Documentation
+
+theme:
+  name: material
+  
+extra:
+  alternate:
+    - name: English
+      link: ./
+      lang: en
+    - name: 日本語
+      link: ./ja/
+      lang: ja
+      
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        ja: 日本語
