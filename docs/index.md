@@ -3,6 +3,9 @@
 ## Teamstudio Export
 [Latest Documentation](docs-export)
 
+## Teamstudio Notes Tools
+[Latest Documentation](docs-tsds)
+
 ## Teamstudio Build Manager
 [Latest Documentation](docs-bm)
 
