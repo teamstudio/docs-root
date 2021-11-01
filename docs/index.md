@@ -11,3 +11,6 @@
 
 ## Teamstudio Adviser
 [Latest Documentation](docs-adviser)
+
+## Teamstudio Usage Auditor
+[Latest Documentation](docs-usage)
