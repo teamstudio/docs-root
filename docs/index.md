@@ -13,4 +13,4 @@
 [Latest Documentation](docs-adviser)
 
 ## Teamstudio Usage Auditor
-[Latest Documentation](docs-usage)
+[Latest Documentation](docs-ua)

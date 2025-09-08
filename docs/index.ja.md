@@ -13,4 +13,4 @@
 [ドキュメンテーション](../docs-adviser/latest/ja)
 
 ## Teamstudio Usage Auditor
-[ドキュメンテーション](../docs-usage/latest/ja)
+[ドキュメンテーション](../docs-ua/latest/ja)
