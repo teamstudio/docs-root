@@ -6,6 +6,9 @@
 ## Teamstudio Notes Tools
 [Latest Documentation](docs-tsds)
 
+## Teamstudio Usage
+[Latest Documentation](docs-usage)
+
 ## Teamstudio Build Manager
 [Latest Documentation](docs-bm)
 

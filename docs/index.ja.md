@@ -6,6 +6,9 @@
 ## Teamstudio Notes Tools
 [ドキュメンテーション](../docs-tsds/latest/ja)
 
+## Teamstudio Usage
+[ドキュメンテーション](../docs-usage/latest)
+
 ## Teamstudio Build Manager
 [ドキュメンテーション](../docs-bm)
 
