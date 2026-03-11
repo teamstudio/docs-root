@@ -6,14 +6,19 @@ theme:
 extra:
   alternate:
     - name: English
-      link: ./
+      link: /
       lang: en
     - name: 日本語
-      link: ./ja/
+      link: /ja/
       lang: ja
       
 plugins:
   - i18n:
-      default_language: en
       languages:
-        ja: 日本語
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: ja
+          name: 日本語
+          build: true

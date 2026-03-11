@@ -7,7 +7,7 @@
 [ドキュメンテーション](../docs-tsds/latest/ja)
 
 ## Teamstudio Usage
-[ドキュメンテーション](../docs-usage/latest)
+[ドキュメンテーション](../docs-usage/latest/ja)
 
 ## Teamstudio Build Manager
 [ドキュメンテーション](../docs-bm)
